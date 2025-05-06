@@ -6,6 +6,11 @@
     padding: 20px;
 }
 
+#e{
+    color:purple;
+    font-style: italic;
+}
+
 .project h1 {
     font-size: 2em;
     margin-bottom: 20px;
