@@ -6,6 +6,10 @@
     padding: 20px;
 }
 
+ul{
+    list-style:none;
+}
+
 #e{
     color:purple;
     font-style: italic;
