@@ -10,6 +10,10 @@ ul{
     list-style:none;
 }
 
+ul>li{
+    margin: 10px 0;
+}
+
 #e{
     color:purple;
     font-style: italic;
