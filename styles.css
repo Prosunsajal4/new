@@ -9,11 +9,6 @@
 
 ul{
     list-style:none;
-    display:flex;
-    flex-direction:column;
-    text-align:center;
-    justify-content:center;
-    gap:20px;
 }
 
 ul>li{
@@ -43,5 +38,6 @@ ul>li{
 .project a:hover {
     text-decoration: underline tomato  2px;
 }
+
 
 
